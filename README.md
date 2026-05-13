@@ -3,7 +3,7 @@
 Code accompanying the preprint:
 
 > "Scaling and tuning to criticality in resting-state human magnetoencephalography"
-> [Preprint link](https://arxiv.org/pdf/2602.17820)
+> [arXiv](https://arxiv.org/pdf/2602.17820)
 >
 > ## Abstract
 > From 1/f noise to neuronal avalanches, evidence of scaling in brain activity has been increasingly linked to tuning to or near criticality. The concept of scaling is intimately related
@@ -36,12 +36,14 @@ Python 3 with standard scientific libraries:
 
 If you use this code, please use:
 
+```bibtex
 @article{https://arxiv.org/pdf/2602.17820,
   title={Scaling and tuning to criticality in resting-state human magnetoencephalography},
   author={Topal, Irem and Poggialini, Anna and Maschio, Marco Dal and De Martino, Daniele and Shriki, Oren and Lombardi, Fabrizio},
   journal={arXiv preprint arXiv:2602.17820},
   year={2026}
 }
+```
 
 ## License
 
